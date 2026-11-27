@@ -1,0 +1,6 @@
+50 done 11 decoded 7s
+100 done 30 decoded 15s
+150 done 43 decoded 22s
+200 done 56 decoded 31s
+퍼즐 200개 중 해독 56개, 31s
+{'multiplicative': '3/40 퍼즐, 목표 16/1161', 'mixed': '16/48 퍼즐, 목표 148/1356', 'shared': '37/51 퍼즐, 목표 747/1428', 'independent': '0/45 퍼즐, 목표 0/1307', 'tiny': '0/16 퍼즐, 목표 0/42'}

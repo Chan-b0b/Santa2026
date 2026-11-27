@@ -1,0 +1,50 @@
+# 루트의 점(.) 파일과 폴더는 아래에 적은 것만 올린다.
+# 걸러지는 것: .venv/, .tools/ (환경. SETUP.md 대로 다시 만든다), .git-state/ (core/sync.sh 의 git 폴더),
+#   .watch.log, 그리고 편집기·셸 설정 파일.
+/.*
+!/.gitignore
+!/.nojekyll
+# Claude Code 설정은 에이전트 정의만 올린다.
+!/.claude/
+/.claude/*
+!/.claude/agents/
+
+# 대회 자료. Kaggle CLI로 다시 받는다 (SETUP.md).
+data/
+__pycache__/
+*.pyc
+
+# 실행 중에 생기는 임시 파일, 잠금, 감시 로그
+*.tmp
+*.tmp[0-9]*
+*.lock
+.watch.log
+
+# 공개 노트북에서 받은 소스. 다른 참가자의 결과 프로그램이 박혀 있어 다시 배포하지 않는다.
+# 우리가 쓴 정리(catalog_*.md, README.md)와 추출 도구(_tools/)만 올린다.
+research_notes/kaggle_code/*/
+!research_notes/kaggle_code/_tools/
+
+# 컴파일한 실행 파일. core/build.sh 로 다시 만든다 (-march=native 라 다른 CPU에서 안 돌 수 있다).
+solvers/chain/basescan
+solvers/exact/exact
+solvers/factor/hidscan
+solvers/fresh/elf_lns
+solvers/lend/elf_lns
+solvers/lns/elf_lns
+solvers/lns/elf_lns2
+solvers/lns/elf_lns_new
+solvers/lns/elf_lns.prev
+solvers/quirk/basescan
+solvers/quirk/basescan2
+solvers/quirk/elf_lns_snap
+solvers/quirk/elf_lns_snap2
+solvers/quirk/elf_lns_snap3
+solvers/quirk/oracle
+solvers/quirk/pairscan
+solvers/regfit/elf_regfit
+solvers/search/basescan
+solvers/search/pairscan
+solvers/search/partnerscan
+solvers/walk/walk
+solvers/walk/walk_r0

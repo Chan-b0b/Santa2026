@@ -1,0 +1,12 @@
+100/344 개선 65 합계 150345 521s
+200/344 개선 126 합계 149104 1046s
+300/344 개선 187 합계 148020 1612s
+끝: 프로그램 1000개, 개선 213, 합계(자체 집계, 참고용) 147592, 1863s
+    57 {'digits': 4, 'W': 16, 'pol': 0, 'order': 'cheap', 's1m': 2, 'f2': 0, 'relkeep': 2, 'rel_shift': 12, 'alpha': 0.16, 'vcap': 160, 'vsoft': 45, 'tie_s1': 1, 'hot': 30, 'seed': 0, 'nb': 9, 'auxc': 1, 'aux_max': 1, 'aux_pre': 1}
+    54 {'digits': 4, 'W': 16, 'pol': 0, 'order': 'cheap', 's1m': 2, 'f2': 0, 'relkeep': 2, 'rel_shift': 12, 'alpha': 0.16, 'vcap': 160, 'vsoft': 45, 'tie_s1': 1, 'hot': 30, 'seed': 0, 'nb': 9, 'auxc': 2, 'aux_max': 2, 'aux_pre': 1}
+    38 {'digits': 4, 'W': 16, 'pol': 0, 'order': 'cheap', 's1m': 2, 'f2': 0, 'relkeep': 2, 'rel_shift': 12, 'alpha': 0.16, 'vcap': 160, 'vsoft': 45, 'tie_s1': 1, 'hot': 30, 'seed': 0, 'nb': 9, 'auxc': 1, 'aux_max': 2, 'aux_pre': 1}
+    26 {'digits': 4, 'W': 16, 'pol': 0, 'order': 'cheap', 's1m': 2, 'f2': 0, 'relkeep': 2, 'rel_shift': 12, 'alpha': 0.16, 'vcap': 160, 'vsoft': 45, 'tie_s1': 1, 'hot': 30, 'seed': 0, 'nb': 9}
+    12 {'digits': 4, 'W': 16, 'pol': 0, 'order': 'cheap', 's1m': 2, 'f2': 0, 'relkeep': 2, 'rel_shift': 12, 'alpha': 0.16, 'vcap': 160, 'vsoft': 45, 'tie_s1': 1, 'hot': 30, 'seed': 0, 'nb': 9, 'auxc': 1, 'aux_max': 1, 'aux_pre': 0}
+    10 {'digits': 4, 'W': 16, 'pol': 0, 'order': 'cheap', 's1m': 2, 'f2': 0, 'relkeep': 2, 'rel_shift': 12, 'alpha': 0.16, 'vcap': 160, 'vsoft': 45, 'tie_s1': 1, 'hot': 30, 'seed': 4, 'nb': 9, 'auxc': 1, 'aux_max': 1, 'aux_pre': 0}
+     9 {'digits': 4, 'W': 16, 'pol': 0, 'order': 'cheap', 's1m': 2, 'f2': 0, 'relkeep': 2, 'rel_shift': 12, 'alpha': 0.16, 'vcap': 160, 'vsoft': 45, 'tie_s1': 1, 'hot': 30, 'seed': 0, 'nb': 9, 'auxc': 1, 'aux_max': 2, 'aux_pre': 0}
+     7 {'digits': 4, 'W': 16, 'pol': 0, 'order': 'cheap', 's1m': 2, 'f2': 0, 'relkeep': 2, 'rel_shift': 12, 'alpha': 0.16, 'vcap': 160, 'vsoft': 45, 'tie_s1': 1, 'hot': 30, 'seed': 0, 'nb': 3, 'auxc': 1, 'aux_max': 2, 'aux_pre': 1}

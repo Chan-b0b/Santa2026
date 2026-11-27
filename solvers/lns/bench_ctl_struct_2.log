@@ -1,0 +1,26 @@
+scored_0027 103 -> 103 | kick 0 beam 0 ruin 0+105475/714598 start 103 end 103 iters 893051 eval 133988 imp 0 eq 815 merge 0 elim 0/19613 regfail 0 (imp 0) repair 0 abort 0
+scored_0078 106 -> 106 | kick 0 beam 0 ruin 0+121316/821255 start 106 end 106 iters 1026331 eval 154042 imp 0 eq 2619 merge 0 elim 0/21556 regfail 0 (imp 0) repair 0 abort 0
+scored_0116 85 -> 85 | kick 0 beam 2 ruin 0+102346/591023 start 85 end 85 iters 738679 eval 110535 imp 0 eq 3254 merge 0 elim 0/11888 regfail 0 (imp 0) repair 0 abort 0
+scored_0147 94 -> 94 | kick 0 beam 0 ruin 0+149253/1191487 start 94 end 94 iters 1488688 eval 222911 imp 0 eq 1917 merge 0 elim 0/35125 regfail 0 (imp 0) repair 0 abort 0
+scored_0187 91 -> 91 | kick 0 beam 0 ruin 0+148111/790196 start 91 end 91 iters 988193 eval 148391 imp 0 eq 1469 merge 0 elim 0/18722 regfail 0 (imp 0) repair 0 abort 0
+scored_0225 105 -> 105 | kick 0 beam 32 ruin 0+75455/507401 start 105 end 105 iters 633847 eval 94894 imp 0 eq 2049 merge 0 elim 0/12010 regfail 0 (imp 0) repair 0 abort 0
+scored_0256 84 -> 84 | kick 0 beam 0 ruin 0+154181/944466 start 84 end 84 iters 1180006 eval 176511 imp 0 eq 4429 merge 0 elim 0/23471 regfail 0 (imp 0) repair 0 abort 0
+scored_0298 97 -> 97 | kick 0 beam 0 ruin 0+102923/638539 start 97 end 97 iters 797922 eval 119785 imp 0 eq 2377 merge 0 elim 0/16648 regfail 0 (imp 0) repair 0 abort 0
+scored_0377 85 -> 85 | kick 0 beam 0 ruin 0+74201/465775 start 85 end 85 iters 582040 eval 87409 imp 0 eq 799 merge 0 elim 0/10983 regfail 0 (imp 0) repair 0 abort 0
+scored_0430 87 -> 87 | kick 0 beam 0 ruin 0+129767/812928 start 87 end 87 iters 1015756 eval 151759 imp 0 eq 2654 merge 0 elim 0/19193 regfail 0 (imp 0) repair 0 abort 0
+scored_0464 76 -> 76 | kick 0 beam 0 ruin 0+160407/1450320 start 76 end 76 iters 1812996 eval 271516 imp 0 eq 3543 merge 0 elim 0/39112 regfail 0 (imp 0) repair 0 abort 0
+scored_0503 80 -> 80 | kick 0 beam 0 ruin 0+116776/1181236 start 80 end 80 iters 1475404 eval 220647 imp 0 eq 764 merge 0 elim 0/33656 regfail 0 (imp 0) repair 0 abort 0
+scored_0539 90 -> 90 | kick 0 beam 0 ruin 0+121567/779512 start 90 end 90 iters 974210 eval 145611 imp 0 eq 3176 merge 0 elim 0/20638 regfail 0 (imp 0) repair 0 abort 0
+scored_0554 96 -> 96 | kick 0 beam 0 ruin 0+95192/485877 start 96 end 96 iters 607783 eval 91128 imp 0 eq 1155 merge 0 elim 0/10318 regfail 0 (imp 0) repair 0 abort 0
+scored_0574 100 -> 100 | kick 0 beam 0 ruin 0+104715/709319 start 100 end 100 iters 886961 eval 133166 imp 0 eq 2014 merge 0 elim 0/15822 regfail 0 (imp 0) repair 0 abort 0
+scored_0623 74 -> 74 | kick 0 beam 0 ruin 0+240024/1701482 start 74 end 74 iters 2126804 eval 319164 imp 0 eq 6294 merge 0 elim 0/41433 regfail 0 (imp 0) repair 0 abort 0
+scored_0659 81 -> 81 | kick 0 beam 0 ruin 0+213242/1616324 start 81 end 81 iters 2020426 eval 302930 imp 0 eq 7288 merge 0 elim 0/38571 regfail 0 (imp 0) repair 0 abort 0
+scored_0707 86 -> 86 | kick 0 beam 0 ruin 0+173084/1217675 start 86 end 86 iters 1522230 eval 228241 imp 0 eq 2776 merge 0 elim 0/32695 regfail 0 (imp 0) repair 0 abort 0
+scored_0749 89 -> 89 | kick 0 beam 0 ruin 0+118570/1011085 start 89 end 89 iters 1263304 eval 189341 imp 0 eq 4880 merge 0 elim 0/29790 regfail 0 (imp 0) repair 0 abort 0
+scored_0761 95 -> 95 | kick 0 beam 0 ruin 0+114450/768407 start 95 end 95 iters 960080 eval 143778 imp 0 eq 3205 merge 0 elim 0/15961 regfail 0 (imp 0) repair 0 abort 0
+scored_0804 107 -> 107 | kick 0 beam 0 ruin 0+97820/610294 start 107 end 107 iters 763778 eval 115205 imp 0 eq 2890 merge 0 elim 0/15258 regfail 0 (imp 0) repair 0 abort 0
+scored_0821 95 -> 95 | kick 0 beam 0 ruin 0+102851/907530 start 95 end 95 iters 1135043 eval 170733 imp 0 eq 1479 merge 0 elim 0/23550 regfail 0 (imp 0) repair 0 abort 0
+scored_0881 84 -> 84 | kick 0 beam 0 ruin 0+88881/661626 start 84 end 84 iters 827364 eval 124172 imp 0 eq 1469 merge 0 elim 0/17737 regfail 0 (imp 0) repair 0 abort 0
+scored_0943 88 -> 88 | kick 0 beam 0 ruin 0+115310/860682 start 88 end 88 iters 1076505 eval 162014 imp 0 eq 3450 merge 0 elim 0/21148 regfail 0 (imp 0) repair 0 abort 0
+scored_0955 82 -> 82 | kick 0 beam 0 ruin 0+214407/1789280 start 82 end 82 iters 2236409 eval 335509 imp 0 eq 1479 merge 0 elim 0/47621 regfail 0 (imp 0) repair 0 abort 0
+합계 2260 -> 2260 (0.00%)

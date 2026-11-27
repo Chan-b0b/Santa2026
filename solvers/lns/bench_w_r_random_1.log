@@ -1,0 +1,20 @@
+scored_0001 238 -> 238 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 970 ruin 0+4663/17905 start 238 end 238 iters 22294 eval 3296 imp 0 eq 194 merge 0 elim 0/415 regfail 283 (imp 0) repair 0 abort 1
+scored_0051 290 -> 290 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 1278 ruin 0+1629/9899 start 290 end 290 iters 12239 eval 1739 imp 0 eq 82 merge 0 elim 0/197 regfail 409 (imp 0) repair 0 abort 0
+scored_0104 235 -> 235 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 1801 ruin 0+6521/27660 start 235 end 235 iters 34587 eval 5139 imp 0 eq 211 merge 0 elim 0/615 regfail 506 (imp 0) repair 0 abort 0
+scored_0145 224 -> 223 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 1603 ruin 1+5908/24285 start 224 end 223 iters 30408 eval 4580 imp 0 eq 152 merge 0 elim 0/601 regfail 189 (imp 0) repair 1 abort 0
+scored_0183 288 -> 288 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 1240 ruin 0+2582/11210 start 288 end 288 iters 14088 eval 2135 imp 0 eq 112 merge 0 elim 0/221 regfail 101 (imp 0) repair 0 abort 0
+scored_0249 270 -> 270 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 966 ruin 0+2426/10047 start 270 end 270 iters 12573 eval 1875 imp 0 eq 100 merge 0 elim 0/211 regfail 183 (imp 0) repair 0 abort 0
+scored_0283 222 -> 222 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 1393 ruin 0+7796/24996 start 222 end 222 iters 31198 eval 4579 imp 0 eq 376 merge 0 elim 0/574 regfail 92 (imp 0) repair 0 abort 0
+scored_0334 219 -> 219 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 1185 ruin 0+2860/10302 start 219 end 219 iters 12873 eval 1899 imp 0 eq 62 merge 0 elim 0/236 regfail 72 (imp 0) repair 0 abort 6
+scored_0397 187 -> 187 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 919 ruin 0+7095/21493 start 187 end 187 iters 26862 eval 4012 imp 0 eq 267 merge 0 elim 0/485 regfail 30 (imp 0) repair 0 abort 0
+scored_0446 259 -> 259 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 1905 ruin 0+2615/12197 start 259 end 259 iters 15185 eval 2198 imp 0 eq 89 merge 0 elim 0/265 regfail 442 (imp 0) repair 0 abort 0
+scored_0508 192 -> 192 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 898 ruin 0+7887/27658 start 192 end 192 iters 34526 eval 5127 imp 0 eq 221 merge 0 elim 0/658 regfail 134 (imp 0) repair 0 abort 0
+scored_0581 268 -> 268 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 1840 ruin 0+2953/19067 start 268 end 268 iters 23779 eval 3536 imp 0 eq 82 merge 0 elim 0/444 regfail 241 (imp 0) repair 0 abort 0
+scored_0647 214 -> 214 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 1720 ruin 0+5809/23791 start 214 end 214 iters 29720 eval 4426 imp 0 eq 194 merge 0 elim 0/554 regfail 295 (imp 0) repair 0 abort 0
+scored_0692 200 -> 200 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 703 ruin 0+9506/30271 start 200 end 200 iters 37810 eval 5721 imp 0 eq 361 merge 0 elim 0/732 regfail 312 (imp 0) repair 0 abort 0
+scored_0762 283 -> 283 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 973 ruin 0+1443/5880 start 283 end 283 iters 7284 eval 1066 imp 0 eq 48 merge 0 elim 0/96 regfail 178 (imp 0) repair 0 abort 70
+scored_0795 179 -> 179 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 1910 ruin 0+10174/35303 start 179 end 179 iters 44195 eval 6677 imp 0 eq 250 merge 0 elim 0/954 regfail 13 (imp 0) repair 0 abort 0
+scored_0844 267 -> 267 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 1163 ruin 0+1665/6822 start 267 end 267 iters 8529 eval 1263 imp 0 eq 46 merge 0 elim 0/141 regfail 217 (imp 0) repair 0 abort 0
+scored_0905 240 -> 240 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 1706 ruin 0+5123/20502 start 240 end 240 iters 25639 eval 3829 imp 0 eq 205 merge 0 elim 0/442 regfail 285 (imp 0) repair 0 abort 0
+scored_0952 213 -> 213 | walk 0/0 cyc 0 hold 0/0(0) help 0/0 kick 0 beam 1038 ruin 0+6633/28663 start 213 end 213 iters 35805 eval 5350 imp 0 eq 265 merge 0 elim 0/657 regfail 371 (imp 0) repair 0 abort 0
+합계 4488 -> 4487 (0.02%)

@@ -1,0 +1,363 @@
+== 2026-11-25 17:29:00 mixed 60개 시험: 초반부(k=3,8) 바꿔 끼우기, 씨 1,2, 프로세스 6
+scored_0030 k 3 kept 28 opt 26 30s
+scored_0012 k 3 kept 35 opt 24 30s
+scored_0012 k 8 kept 57 opt 51 30s
+scored_0038 k 3 kept 45 opt 26 30s
+scored_0030 k 8 kept 59 opt 48 30s
+scored_0038 k 8 kept 64 opt 52 30s
+scored_0048 k 3 kept 22 opt 13 30s
+scored_0049 k 3 kept 33 opt 24 30s
+scored_0076 k 3 kept 19 opt 14 30s
+scored_0048 k 8 kept 59 opt 46 30s
+scored_0049 k 8 kept 55 opt 47 30s
+scored_0076 k 8 kept 51 opt 42 30s
+scored_0140 k 3 kept 26 opt 23 30s
+scored_0080 k 3 kept 37 opt 23 30s
+scored_0110 k 3 kept 32 opt 25 30s
+scored_0110 k 8 kept 53 opt 48 30s
+scored_0080 k 8 kept 61 opt 54 30s
+scored_0140 k 8 kept 57 opt 47 30s
+scored_0161 k 3 kept 38 opt 22 30s
+scored_0148 k 8 kept 49 opt 41 30s
+scored_0148 k 3 kept 40 opt 26 30s
+scored_0158 k 8 kept 55 opt 48 30s
+scored_0158 k 3 kept 26 opt 18 30s
+scored_0161 k 8 kept 53 opt 42 30s
+scored_0180 k 3 kept 18 opt 16 30s
+scored_0194 k 3 kept 25 opt 22 30s
+scored_0180 k 8 kept 34 opt 30 30s
+scored_0194 k 8 kept 50 opt 45 30s
+scored_0206 k 3 kept 28 opt 21 30s
+scored_0206 k 8 kept 73 opt 54 30s
+scored_0229 k 3 kept 18 opt 14 30s
+scored_0238 k 3 kept 28 opt 24 30s
+scored_0229 k 8 kept 47 opt 37 30s
+scored_0244 k 3 kept 32 opt 25 30s
+scored_0238 k 8 kept 50 opt 40 30s
+scored_0244 k 8 kept 52 opt 47 30s
+scored_0290 k 3 kept 28 opt 22 30s
+scored_0275 k 3 kept 39 opt 27 30s
+scored_0275 k 8 kept 56 opt 53 30s
+scored_0324 k 3 kept 24 opt 18 30s
+scored_0290 k 8 kept 56 opt 47 30s
+scored_0324 k 8 kept 66 opt 51 30s
+scored_0353 k 3 kept 24 opt 24 30s
+scored_0362 k 3 kept 34 opt 16 30s
+scored_0353 k 8 kept 63 opt 50 30s
+scored_0384 k 3 kept 29 opt 21 30s
+scored_0362 k 8 kept 52 opt 42 30s
+scored_0384 k 8 kept 56 opt 51 30s
+scored_0408 k 3 kept 44 opt 31 30s
+scored_0413 k 3 kept 26 opt 19 30s
+scored_0408 k 8 kept 61 opt 51 30s
+scored_0413 k 8 kept 60 opt 50 30s
+scored_0415 k 3 kept 32 opt 20 30s
+scored_0415 k 8 kept 59 opt 44 30s
+scored_0427 k 3 kept 25 opt 20 30s
+scored_0426 k 3 kept 30 opt 25 30s
+scored_0426 k 8 kept 47 opt 47 30s
+scored_0427 k 8 kept 50 opt 49 30s
+scored_0440 k 3 kept 29 opt 25 30s
+scored_0440 k 8 kept 48 opt 45 30s
+scored_0458 k 3 kept 21 opt 15 30s
+scored_0458 k 8 kept 49 opt 46 30s
+scored_0468 k 3 kept 19 opt 18 30s
+scored_0480 k 3 kept 30 opt 17 30s
+scored_0468 k 8 kept 56 opt 47 30s
+scored_0480 k 8 kept 60 opt 44 30s
+scored_0489 k 8 kept 52 opt 46 30s
+scored_0489 k 3 kept 26 opt 19 30s
+scored_0491 k 3 kept 31 opt 20 30s
+scored_0497 k 3 kept 29 opt 17 30s
+scored_0491 k 8 kept 58 opt 51 30s
+scored_0497 k 8 kept 47 opt 38 30s
+scored_0501 k 3 kept 29 opt 21 30s
+scored_0508 k 3 kept 31 opt 23 30s
+scored_0501 k 8 kept 46 opt 39 30s
+scored_0516 k 3 kept 29 opt 23 30s
+scored_0508 k 8 kept 73 opt 58 30s
+scored_0516 k 8 kept 52 opt 43 30s
+scored_0530 k 3 kept 33 opt 22 30s
+scored_0550 k 3 kept 23 opt 15 30s
+scored_0530 k 8 kept 59 opt 54 30s
+scored_0550 k 8 kept 35 opt 32 30s
+scored_0587 k 3 kept 24 opt 20 30s
+scored_0587 k 8 kept 51 opt 47 30s
+scored_0606 k 3 kept 31 opt 22 30s
+scored_0606 k 8 kept 50 opt 42 30s
+scored_0608 k 3 kept 28 opt 21 30s
+scored_0609 k 3 kept 29 opt 20 30s
+scored_0608 k 8 kept 59 opt 51 30s
+scored_0609 k 8 kept 50 opt 39 30s
+scored_0622 k 3 kept 29 opt 16 30s
+scored_0622 k 8 kept 47 opt 37 30s
+scored_0645 k 3 kept 34 opt 24 30s
+scored_0673 k 3 kept 24 opt 24 30s
+scored_0645 k 8 kept 60 opt 50 30s
+scored_0673 k 8 kept 55 opt 50 30s
+scored_0726 k 3 kept 36 opt 16 30s
+scored_0739 k 3 kept 35 opt 23 30s
+scored_0726 k 8 kept 58 opt 41 30s
+scored_0739 k 8 kept 61 opt 50 30s
+scored_0756 k 3 kept 37 opt 26 30s
+scored_0756 k 8 kept 59 opt 53 30s
+scored_0768 k 3 kept 29 opt 22 30s
+scored_0768 k 8 kept 45 opt 42 30s
+scored_0795 k 3 kept 36 opt 34 30s
+scored_0800 k 3 kept 14 opt 10 30s
+scored_0795 k 8 kept 65 opt 63 30s
+scored_0800 k 8 kept 30 opt 26 30s
+scored_0849 k 3 kept 31 opt 24 30s
+scored_0843 k 3 kept 22 opt 17 30s
+scored_0843 k 8 kept 59 opt 50 30s
+scored_0849 k 8 kept 60 opt 52 30s
+scored_0861 k 3 kept 31 opt 26 30s
+scored_0861 k 8 kept 65 opt 60 30s
+scored_0885 k 3 kept 44 opt 31 30s
+scored_0885 k 8 kept 63 opt 51 30s
+scored_0965 k 3 kept 40 opt 25 30s
+scored_0965 k 8 kept 56 opt 47 30s
+scored_0969 k 3 kept 25 opt 18 30s
+scored_0969 k 8 kept 60 opt 42 30s
+== 2026-11-25 17:39:01 prefix 끝, spl 시작
+scored_0012 k 3 seed 1 frozen 178 start 196 end 178 45s
+scored_0030 k 3 seed 2 frozen 190 start 198 end 190 45s
+scored_0012 k 8 seed 2 frozen 178 start 192 end 178 45s
+scored_0012 k 3 seed 2 frozen 178 start 196 end 178 45s
+scored_0012 k 8 seed 1 frozen 178 start 192 end 178 45s
+scored_0030 k 3 seed 1 frozen 190 start 198 end 190 45s
+scored_0038 k 3 seed 1 frozen 149 start 168 end 149 45s
+scored_0038 k 3 seed 2 frozen 149 start 168 end 149 45s
+scored_0038 k 8 seed 2 frozen 149 start 176 end 151 45s
+scored_0038 k 8 seed 1 frozen 149 start 176 end 150 45s
+scored_0030 k 8 seed 2 frozen 190 start 203 end 191 45s
+scored_0030 k 8 seed 1 frozen 190 start 203 end 190 45s
+scored_0048 k 3 seed 2 frozen 142 start 151 end 142 45s
+scored_0048 k 3 seed 1 frozen 142 start 151 end 142 45s
+scored_0048 k 8 seed 1 frozen 142 start 165 end 143 45s
+scored_0049 k 3 seed 2 frozen 153 start 163 end 153 45s
+scored_0048 k 8 seed 2 frozen 142 start 165 end 143 45s
+scored_0049 k 3 seed 1 frozen 153 start 163 end 154 45s
+scored_0049 k 8 seed 1 frozen 153 start 168 end 154 45s
+scored_0049 k 8 seed 2 frozen 153 start 168 end 155 45s
+scored_0076 k 8 seed 1 frozen 140 start 153 end 140 45s
+scored_0076 k 3 seed 1 frozen 140 start 147 end 140 45s
+scored_0076 k 3 seed 2 frozen 140 start 147 end 140 45s
+scored_0076 k 8 seed 2 frozen 140 start 153 end 140 45s
+scored_0080 k 3 seed 1 frozen 146 start 159 end 147 45s
+scored_0080 k 3 seed 2 frozen 146 start 159 end 147 45s
+scored_0080 k 8 seed 1 frozen 146 start 165 end 145 45s
+scored_0110 k 3 seed 1 frozen 166 start 182 end 167 45s
+scored_0080 k 8 seed 2 frozen 146 start 165 end 146 45s
+scored_0110 k 3 seed 2 frozen 166 start 182 end 166 45s
+scored_0110 k 8 seed 1 frozen 166 start 181 end 168 45s
+scored_0110 k 8 seed 2 frozen 166 start 181 end 166 45s
+scored_0140 k 3 seed 1 frozen 160 start 174 end 161 45s
+scored_0140 k 3 seed 2 frozen 160 start 174 end 160 45s
+scored_0140 k 8 seed 2 frozen 160 start 184 end 161 45s
+scored_0140 k 8 seed 1 frozen 160 start 184 end 162 45s
+scored_0148 k 3 seed 1 frozen 164 start 180 end 165 45s
+scored_0148 k 3 seed 2 frozen 164 start 180 end 165 45s
+scored_0158 k 3 seed 1 frozen 148 start 158 end 148 45s
+scored_0148 k 8 seed 1 frozen 164 start 178 end 165 45s
+scored_0148 k 8 seed 2 frozen 164 start 178 end 165 45s
+scored_0158 k 3 seed 2 frozen 148 start 158 end 148 45s
+scored_0158 k 8 seed 1 frozen 148 start 161 end 149 45s
+scored_0158 k 8 seed 2 frozen 148 start 161 end 149 45s
+scored_0161 k 3 seed 1 frozen 149 start 163 end 149 45s
+scored_0161 k 3 seed 2 frozen 149 start 163 end 149 45s
+scored_0161 k 8 seed 1 frozen 149 start 162 end 150 45s
+scored_0161 k 8 seed 2 frozen 149 start 162 end 149 45s
+scored_0180 k 3 seed 1 frozen 83 start 85 end 83 45s
+scored_0180 k 3 seed 2 frozen 83 start 85 end 83 45s
+scored_0180 k 8 seed 1 frozen 83 start 91 end 83 45s
+scored_0180 k 8 seed 2 frozen 83 start 91 end 83 45s
+scored_0194 k 3 seed 1 frozen 155 start 168 end 155 45s
+scored_0194 k 3 seed 2 frozen 155 start 168 end 155 45s
+scored_0194 k 8 seed 1 frozen 155 start 162 end 155 45s
+scored_0194 k 8 seed 2 frozen 155 start 162 end 155 45s
+scored_0206 k 3 seed 2 frozen 157 start 166 end 157 45s
+scored_0206 k 3 seed 1 frozen 157 start 166 end 157 45s
+scored_0206 k 8 seed 1 frozen 157 start 172 end 157 45s
+scored_0206 k 8 seed 2 frozen 157 start 172 end 156 45s
+scored_0229 k 3 seed 1 frozen 141 start 147 end 141 45s
+scored_0229 k 3 seed 2 frozen 141 start 147 end 141 45s
+scored_0229 k 8 seed 1 frozen 141 start 152 end 141 45s
+scored_0229 k 8 seed 2 frozen 141 start 152 end 142 45s
+scored_0238 k 3 seed 1 frozen 138 start 146 end 138 45s
+scored_0238 k 3 seed 2 frozen 138 start 146 end 138 45s
+scored_0238 k 8 seed 1 frozen 138 start 162 end 138 45s
+scored_0238 k 8 seed 2 frozen 138 start 162 end 138 45s
+scored_0244 k 3 seed 1 frozen 183 start 193 end 184 45s
+scored_0244 k 3 seed 2 frozen 183 start 193 end 183 45s
+scored_0244 k 8 seed 1 frozen 183 start 191 end 183 45s
+scored_0244 k 8 seed 2 frozen 183 start 191 end 185 45s
+scored_0275 k 3 seed 1 frozen 146 start 162 end 147 45s
+scored_0275 k 3 seed 2 frozen 146 start 162 end 147 45s
+scored_0275 k 8 seed 1 frozen 146 start 161 end 147 45s
+scored_0275 k 8 seed 2 frozen 146 start 161 end 147 45s
+scored_0290 k 3 seed 1 frozen 146 start 153 end 146 45s
+scored_0290 k 3 seed 2 frozen 146 start 153 end 147 45s
+scored_0290 k 8 seed 1 frozen 146 start 162 end 147 45s
+scored_0290 k 8 seed 2 frozen 146 start 162 end 147 45s
+scored_0324 k 3 seed 1 frozen 170 start 175 end 170 45s
+scored_0324 k 8 seed 1 frozen 170 start 186 end 171 45s
+scored_0324 k 3 seed 2 frozen 170 start 175 end 170 45s
+scored_0324 k 8 seed 2 frozen 170 start 186 end 170 45s
+scored_0353 k 3 seed 1 frozen 145 start 145 end 145 45s
+scored_0353 k 3 seed 2 frozen 145 start 145 end 145 45s
+scored_0353 k 8 seed 1 frozen 145 start 159 end 144 45s
+scored_0353 k 8 seed 2 frozen 145 start 159 end 145 45s
+scored_0362 k 3 seed 1 frozen 97 start 102 end 97 45s
+scored_0362 k 3 seed 2 frozen 97 start 102 end 98 45s
+scored_0362 k 8 seed 1 frozen 97 start 106 end 97 45s
+scored_0362 k 8 seed 2 frozen 97 start 106 end 97 45s
+scored_0384 k 3 seed 2 frozen 147 start 159 end 147 45s
+scored_0384 k 3 seed 1 frozen 147 start 159 end 147 45s
+scored_0384 k 8 seed 1 frozen 147 start 171 end 149 45s
+scored_0384 k 8 seed 2 frozen 147 start 171 end 152 45s
+scored_0408 k 3 seed 1 frozen 156 start 170 end 156 45s
+scored_0408 k 3 seed 2 frozen 156 start 170 end 156 45s
+scored_0408 k 8 seed 1 frozen 156 start 166 end 156 45s
+scored_0408 k 8 seed 2 frozen 156 start 166 end 157 45s
+scored_0413 k 3 seed 1 frozen 156 start 165 end 156 45s
+scored_0413 k 3 seed 2 frozen 156 start 165 end 155 45s
+scored_0413 k 8 seed 1 frozen 156 start 174 end 161 45s
+scored_0413 k 8 seed 2 frozen 156 start 174 end 156 45s
+scored_0415 k 3 seed 2 frozen 155 start 167 end 155 45s
+scored_0415 k 3 seed 1 frozen 155 start 167 end 155 45s
+scored_0415 k 8 seed 1 frozen 155 start 175 end 155 45s
+scored_0415 k 8 seed 2 frozen 155 start 175 end 156 45s
+scored_0426 k 3 seed 1 frozen 142 start 152 end 142 45s
+scored_0426 k 3 seed 2 frozen 142 start 152 end 142 45s
+scored_0426 k 8 seed 1 frozen 142 start 142 end 142 45s
+scored_0426 k 8 seed 2 frozen 142 start 142 end 142 45s
+scored_0427 k 3 seed 1 frozen 117 start 126 end 117 45s
+scored_0427 k 3 seed 2 frozen 117 start 126 end 118 45s
+scored_0427 k 8 seed 1 frozen 117 start 120 end 118 45s
+scored_0427 k 8 seed 2 frozen 117 start 120 end 117 45s
+scored_0440 k 3 seed 1 frozen 183 start 199 end 183 45s
+scored_0440 k 8 seed 1 frozen 183 start 198 end 185 45s
+scored_0440 k 3 seed 2 frozen 183 start 199 end 183 45s
+scored_0440 k 8 seed 2 frozen 183 start 198 end 184 45s
+scored_0458 k 3 seed 1 frozen 146 start 152 end 146 45s
+scored_0458 k 3 seed 2 frozen 146 start 152 end 146 45s
+scored_0458 k 8 seed 1 frozen 146 start 152 end 147 45s
+scored_0458 k 8 seed 2 frozen 146 start 152 end 147 45s
+scored_0468 k 3 seed 1 frozen 155 start 164 end 155 45s
+scored_0468 k 3 seed 2 frozen 155 start 164 end 155 45s
+scored_0468 k 8 seed 1 frozen 155 start 172 end 156 45s
+scored_0468 k 8 seed 2 frozen 155 start 172 end 155 45s
+scored_0480 k 3 seed 1 frozen 146 start 157 end 146 45s
+scored_0480 k 8 seed 1 frozen 146 start 171 end 145 45s
+scored_0480 k 3 seed 2 frozen 146 start 157 end 146 45s
+scored_0480 k 8 seed 2 frozen 146 start 171 end 146 45s
+scored_0489 k 3 seed 1 frozen 144 start 153 end 144 45s
+scored_0489 k 3 seed 2 frozen 144 start 153 end 144 45s
+scored_0489 k 8 seed 1 frozen 144 start 157 end 145 45s
+scored_0491 k 3 seed 1 frozen 178 start 189 end 180 45s
+scored_0489 k 8 seed 2 frozen 144 start 157 end 144 45s
+scored_0491 k 3 seed 2 frozen 178 start 189 end 179 45s
+scored_0491 k 8 seed 1 frozen 178 start 201 end 178 45s
+scored_0491 k 8 seed 2 frozen 178 start 201 end 178 45s
+scored_0497 k 3 seed 1 frozen 169 start 179 end 169 45s
+scored_0497 k 3 seed 2 frozen 169 start 179 end 169 45s
+scored_0497 k 8 seed 1 frozen 169 start 180 end 169 45s
+scored_0497 k 8 seed 2 frozen 169 start 180 end 171 45s
+scored_0501 k 3 seed 1 frozen 108 start 119 end 108 45s
+scored_0501 k 3 seed 2 frozen 108 start 119 end 108 45s
+scored_0501 k 8 seed 1 frozen 108 start 119 end 109 45s
+scored_0501 k 8 seed 2 frozen 108 start 119 end 110 45s
+scored_0508 k 3 seed 1 frozen 191 start 202 end 191 45s
+scored_0508 k 3 seed 2 frozen 191 start 202 end 191 45s
+scored_0508 k 8 seed 1 frozen 191 start 211 end 192 45s
+scored_0508 k 8 seed 2 frozen 191 start 211 end 195 45s
+scored_0516 k 3 seed 2 frozen 151 start 159 end 151 45s
+scored_0516 k 3 seed 1 frozen 151 start 159 end 153 45s
+scored_0516 k 8 seed 1 frozen 151 start 164 end 154 45s
+scored_0516 k 8 seed 2 frozen 151 start 164 end 151 45s
+scored_0530 k 3 seed 1 frozen 155 start 158 end 155 45s
+scored_0530 k 3 seed 2 frozen 155 start 158 end 155 45s
+scored_0530 k 8 seed 1 frozen 155 start 175 end 155 45s
+scored_0530 k 8 seed 2 frozen 155 start 175 end 155 45s
+scored_0550 k 3 seed 1 frozen 88 start 98 end 88 45s
+scored_0550 k 3 seed 2 frozen 88 start 98 end 88 45s
+scored_0550 k 8 seed 1 frozen 88 start 98 end 88 45s
+scored_0550 k 8 seed 2 frozen 88 start 98 end 88 45s
+scored_0587 k 3 seed 1 frozen 151 start 163 end 151 45s
+scored_0587 k 3 seed 2 frozen 151 start 163 end 151 45s
+scored_0587 k 8 seed 1 frozen 151 start 168 end 151 45s
+scored_0587 k 8 seed 2 frozen 151 start 168 end 151 45s
+scored_0606 k 3 seed 1 frozen 160 start 170 end 160 45s
+scored_0606 k 3 seed 2 frozen 160 start 170 end 160 45s
+scored_0606 k 8 seed 2 frozen 160 start 169 end 162 45s
+scored_0606 k 8 seed 1 frozen 160 start 169 end 160 45s
+scored_0608 k 3 seed 1 frozen 150 start 162 end 151 45s
+scored_0608 k 3 seed 2 frozen 150 start 162 end 150 45s
+scored_0608 k 8 seed 1 frozen 150 start 164 end 151 45s
+scored_0608 k 8 seed 2 frozen 150 start 164 end 150 45s
+scored_0609 k 3 seed 1 frozen 150 start 164 end 150 45s
+scored_0609 k 3 seed 2 frozen 150 start 164 end 150 45s
+scored_0609 k 8 seed 1 frozen 150 start 165 end 150 45s
+scored_0609 k 8 seed 2 frozen 150 start 165 end 149 45s
+scored_0622 k 3 seed 1 frozen 165 start 175 end 165 45s
+scored_0622 k 3 seed 2 frozen 165 start 175 end 166 45s
+scored_0622 k 8 seed 2 frozen 165 start 173 end 165 45s
+scored_0622 k 8 seed 1 frozen 165 start 173 end 167 45s
+scored_0645 k 3 seed 1 frozen 182 start 194 end 182 45s
+scored_0645 k 3 seed 2 frozen 182 start 194 end 182 45s
+scored_0645 k 8 seed 1 frozen 182 start 195 end 183 45s
+scored_0645 k 8 seed 2 frozen 182 start 195 end 184 45s
+scored_0673 k 3 seed 2 frozen 166 start 166 end 166 45s
+scored_0673 k 3 seed 1 frozen 166 start 166 end 166 45s
+scored_0673 k 8 seed 1 frozen 166 start 181 end 170 45s
+scored_0673 k 8 seed 2 frozen 166 start 181 end 167 45s
+scored_0726 k 3 seed 1 frozen 146 start 154 end 145 45s
+scored_0726 k 3 seed 2 frozen 146 start 154 end 145 45s
+scored_0726 k 8 seed 1 frozen 146 start 161 end 148 45s
+scored_0726 k 8 seed 2 frozen 146 start 161 end 149 45s
+scored_0739 k 3 seed 1 frozen 148 start 162 end 148 45s
+scored_0739 k 3 seed 2 frozen 148 start 162 end 147 45s
+scored_0739 k 8 seed 1 frozen 148 start 163 end 150 45s
+scored_0739 k 8 seed 2 frozen 148 start 163 end 149 45s
+scored_0756 k 3 seed 1 frozen 148 start 161 end 149 45s
+scored_0756 k 3 seed 2 frozen 148 start 161 end 148 45s
+scored_0756 k 8 seed 1 frozen 148 start 164 end 152 45s
+scored_0756 k 8 seed 2 frozen 148 start 164 end 147 45s
+scored_0768 k 3 seed 1 frozen 93 start 103 end 94 45s
+scored_0768 k 3 seed 2 frozen 93 start 103 end 93 45s
+scored_0768 k 8 seed 1 frozen 93 start 108 end 95 45s
+scored_0768 k 8 seed 2 frozen 93 start 108 end 93 45s
+scored_0795 k 3 seed 1 frozen 179 start 189 end 180 45s
+scored_0795 k 3 seed 2 frozen 179 start 189 end 178 45s
+scored_0795 k 8 seed 1 frozen 179 start 201 end 179 45s
+scored_0800 k 3 seed 1 frozen 74 start 79 end 74 45s
+scored_0795 k 8 seed 2 frozen 179 start 201 end 179 45s
+scored_0800 k 3 seed 2 frozen 74 start 79 end 74 45s
+scored_0800 k 8 seed 1 frozen 74 start 84 end 74 45s
+scored_0800 k 8 seed 2 frozen 74 start 84 end 74 45s
+scored_0843 k 3 seed 1 frozen 141 start 149 end 144 45s
+scored_0843 k 3 seed 2 frozen 141 start 149 end 141 45s
+scored_0843 k 8 seed 2 frozen 141 start 150 end 142 45s
+scored_0843 k 8 seed 1 frozen 141 start 150 end 142 45s
+scored_0849 k 3 seed 1 frozen 192 start 206 end 191 45s
+scored_0849 k 3 seed 2 frozen 192 start 206 end 192 45s
+scored_0849 k 8 seed 1 frozen 192 start 203 end 191 45s
+scored_0861 k 3 seed 1 frozen 156 start 171 end 157 45s
+scored_0849 k 8 seed 2 frozen 192 start 203 end 192 45s
+scored_0861 k 3 seed 2 frozen 156 start 171 end 156 45s
+scored_0861 k 8 seed 1 frozen 156 start 178 end 156 45s
+scored_0861 k 8 seed 2 frozen 156 start 178 end 156 45s
+scored_0885 k 3 seed 1 frozen 162 start 181 end 162 45s
+scored_0885 k 3 seed 2 frozen 162 start 181 end 162 45s
+scored_0885 k 8 seed 2 frozen 162 start 190 end 165 45s
+scored_0885 k 8 seed 1 frozen 162 start 190 end 167 45s
+scored_0965 k 3 seed 1 frozen 189 start 198 end 190 45s
+scored_0965 k 3 seed 2 frozen 189 start 198 end 189 45s
+scored_0965 k 8 seed 1 frozen 189 start 196 end 190 45s
+scored_0965 k 8 seed 2 frozen 189 start 196 end 190 45s
+scored_0969 k 3 seed 1 frozen 149 start 159 end 150 45s
+scored_0969 k 3 seed 2 frozen 149 start 159 end 149 45s
+scored_0969 k 8 seed 1 frozen 149 start 167 end 151 45s
+scored_0969 k 8 seed 2 frozen 149 start 167 end 150 45s
+== 끝 2026-11-25 18:09:02

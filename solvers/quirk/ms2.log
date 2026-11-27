@@ -1,0 +1,43 @@
+134 puzzles
+scored_0009 best 29 -> 28 (from chain.csv)
+[362s] 10/134 better 1 gain 1
+scored_0056 best 26 -> 25 (from chain.csv)
+scored_0065 best 36 -> 35 (from factor.csv)
+scored_0091 best 24 -> 23 (from chain.csv)
+scored_0095 best 34 -> 32 (from factor.csv)
+[711s] 20/134 better 5 gain 6
+scored_0151 best 28 -> 26 (from chain.csv)
+scored_0211 best 39 -> 38 (from chain.csv)
+[1036s] 30/134 better 7 gain 9
+scored_0221 best 36 -> 35 (from factor.csv)
+scored_0222 best 33 -> 32 (from lns.csv)
+scored_0233 best 35 -> 34 (from factor.csv)
+scored_0252 best 70 -> 69 (from relate.csv)
+scored_0253 best 80 -> 79 (from factor.csv)
+[1373s] 40/134 better 12 gain 14
+scored_0299 best 98 -> 97 (from search.csv)
+scored_0300 best 40 -> 39 (from factor.csv)
+[1711s] 50/134 better 14 gain 16
+scored_0387 best 24 -> 23 (from chain.csv)
+[2048s] 60/134 better 15 gain 17
+scored_0487 best 27 -> 26 (from chain.csv)
+[2385s] 70/134 better 16 gain 18
+scored_0515 best 27 -> 26 (from factor.csv)
+scored_0556 best 27 -> 26 (from lns.csv)
+[2722s] 80/134 better 18 gain 20
+scored_0620 best 33 -> 32 (from chain.csv)
+[3058s] 90/134 better 19 gain 21
+[3395s] 100/134 better 19 gain 21
+scored_0858 best 33 -> 32 (from factor.csv)
+scored_0866 best 27 -> 26 (from relate.csv)
+scored_0867 best 91 -> 90 (from search.csv)
+scored_0873 best 37 -> 35 (from search.csv)
+[3744s] 110/134 better 23 gain 26
+scored_0880 best 35 -> 33 (from search.csv)
+scored_0898 best 83 -> 82 (from chain.csv)
+[4070s] 120/134 better 25 gain 29
+scored_0914 best 39 -> 38 (from search.csv)
+scored_0928 best 30 -> 29 (from chain.csv)
+[4418s] 130/134 better 27 gain 31
+[4550s] 134/134 better 27 gain 31
+done

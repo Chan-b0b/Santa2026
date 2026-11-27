@@ -1,0 +1,65 @@
+WIN scored_0765 183 vs 184
+1/60 scored_0765 relate:3 raw 209 out 183 best 184 79s
+2/60 scored_0765 relate:1 raw 212 out 195 best 184 83s
+3/60 scored_0765 relate:0 raw 211 out 193 best 184 87s
+4/60 scored_0765 relate:2 raw 207 out 191 best 184 91s
+5/60 scored_0765 search:0 raw 203 out 194 best 184 95s
+6/60 scored_0765 chain:0 raw 201 out 188 best 184 155s
+7/60 scored_0765 chain:1 raw 198 out 188 best 184 159s
+8/60 scored_0765 search:2 raw 204 out 189 best 184 163s
+9/60 scored_0765 chain:2 raw 197 out 188 best 184 165s
+10/60 scored_0765 search:1 raw 200 out 191 best 184 168s
+11/60 scored_0911 relate:0 raw 90 out 82 best 80 197s
+12/60 scored_0911 relate:1 raw 90 out 81 best 80 200s
+WIN scored_0911 78 vs 80
+13/60 scored_0911 relate:2 raw 86 out 78 best 80 204s
+14/60 scored_0911 relate:3 raw 89 out 83 best 80 208s
+15/60 scored_0911 search:0 raw 92 out 84 best 80 211s
+16/60 scored_0911 chain:0 raw 94 out 82 best 80 237s
+17/60 scored_0911 search:2 raw 92 out 82 best 80 241s
+18/60 scored_0911 chain:1 raw 93 out 83 best 80 245s
+19/60 scored_0911 chain:2 raw 94 out 82 best 80 249s
+20/60 scored_0911 search:1 raw 94 out 79 best 80 253s
+21/60 scored_0422 relate:0 raw 190 out 168 best 168 313s
+22/60 scored_0422 relate:1 raw 193 out 174 best 168 316s
+23/60 scored_0422 relate:2 raw 190 out 173 best 168 320s
+WIN scored_0422 167 vs 168
+24/60 scored_0422 relate:3 raw 196 out 167 best 168 324s
+25/60 scored_0422 search:0 raw 185 out 173 best 168 327s
+26/60 scored_0422 chain:0 raw 182 out 175 best 168 389s
+WIN scored_0422 166 vs 168
+27/60 scored_0422 search:2 raw 182 out 166 best 168 392s
+28/60 scored_0422 chain:1 raw 180 out 174 best 168 395s
+29/60 scored_0422 chain:2 raw 187 out 177 best 168 398s
+30/60 scored_0422 search:1 raw 185 out 171 best 168 401s
+31/60 scored_0020 relate:0 raw 280 out 264 best 249 467s
+32/60 scored_0020 relate:1 raw 279 out 272 best 249 471s
+33/60 scored_0020 relate:3 raw 277 out 264 best 249 475s
+34/60 scored_0020 relate:2 raw 287 out 267 best 249 479s
+35/60 scored_0020 search:0 raw 273 out 266 best 249 483s
+36/60 scored_0020 search:2 raw 265 out 254 best 249 543s
+37/60 scored_0020 chain:0 raw 265 out 259 best 249 546s
+38/60 scored_0020 chain:1 raw 261 out 257 best 249 549s
+39/60 scored_0020 chain:2 raw 262 out 255 best 249 552s
+40/60 scored_0020 search:1 raw 272 out 267 best 249 557s
+41/60 scored_0742 relate:0 raw 204 out 187 best 184 619s
+42/60 scored_0742 relate:1 raw 207 out 191 best 184 623s
+43/60 scored_0742 relate:2 raw 201 out 186 best 184 627s
+44/60 scored_0742 relate:3 raw 199 out 184 best 184 631s
+45/60 scored_0742 search:0 raw 199 out 190 best 184 635s
+46/60 scored_0742 search:2 raw 194 out 186 best 184 696s
+47/60 scored_0742 chain:0 raw 198 out 190 best 184 699s
+WIN scored_0742 183 vs 184
+48/60 scored_0742 chain:1 raw 194 out 183 best 184 702s
+49/60 scored_0742 chain:2 raw 202 out 192 best 184 705s
+50/60 scored_0742 search:1 raw 195 out 187 best 184 714s
+51/60 scored_0839 relate:0 raw 194 out 174 best 175 772s
+52/60 scored_0839 relate:1 raw 199 out 181 best 175 775s
+53/60 scored_0839 relate:2 raw 197 out 180 best 175 778s
+54/60 scored_0839 relate:3 raw 197 out 180 best 175 780s
+55/60 scored_0839 search:0 raw 186 out 182 best 175 791s
+56/60 scored_0839 search:2 raw 195 out 179 best 175 850s
+57/60 scored_0839 chain:0 raw 190 out 176 best 175 854s
+58/60 scored_0839 chain:1 raw 193 out 178 best 175 856s
+59/60 scored_0839 chain:2 raw 189 out 174 best 175 860s
+60/60 scored_0839 search:1 raw 192 out 185 best 175 868s

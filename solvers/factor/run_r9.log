@@ -1,0 +1,14 @@
+[195s] 50/256 끝, 풀린 것 50
+  중간 저장: /home/maverick/Santa2026/results/factor.csv (갱신 17개, 총 1000개, 합계 150369)
+[384s] 100/256 끝, 풀린 것 100
+  중간 저장: /home/maverick/Santa2026/results/factor.csv (갱신 17개, 총 1000개, 합계 150325)
+[560s] 150/256 끝, 풀린 것 150
+  중간 저장: /home/maverick/Santa2026/results/factor.csv (갱신 14개, 총 1000개, 합계 150300)
+[728s] 200/256 끝, 풀린 것 200
+  중간 저장: /home/maverick/Santa2026/results/factor.csv (갱신 5개, 총 1000개, 합계 150283)
+[876s] 250/256 끝, 풀린 것 250
+  중간 저장: /home/maverick/Santa2026/results/factor.csv (갱신 16개, 총 1000개, 합계 150248)
+퍼즐 256개, 성공 256, 실패 0, 씨앗 없어 건너뜀 0, 경과 882.1s, 최장 퍼즐 22.5s
+  all             퍼즐 256  명령  38542  평균 150.6  하한 7709  목표당 5.00
+  유도별 (명령수/횟수): chain3=1917/639, decomp=15865/2680, fallback=3444/612, fsplit=805/176, hub=80/21, mitm=560/131, one=34/34, pair=4771/1591, pair12=2208/552, preseed=4453/1125, reap=7843/683, shift=3503/801, two=902/451
+  기록: /home/maverick/Santa2026/results/factor.csv (갱신 3개, 총 1000개, 합계 150243)

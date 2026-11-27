@@ -1,0 +1,10 @@
+  .. 131/1000 done, 63s
+  .. 211/1000 done, 129s
+  .. 286/1000 done, 190s
+  .. 413/1000 done, 253s
+  .. 561/1000 done, 314s
+  .. 658/1000 done, 377s
+  .. 781/1000 done, 441s
+  .. 913/1000 done, 503s
+run: 1000 puzzles, this-run total 58727, improved 197, errors 0, max time 36.1s, wall 542s
+file now has 1000 programs

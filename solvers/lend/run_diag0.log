@@ -1,0 +1,80 @@
+scored_0057 1 47 22 17 2709 merge 0 elim 0/12108 regfail 0 (imp 0) repair 0 abort 0
+scored_0057 3 65 49 33 eq 11 merge 1 elim 0/7169 regfail 0 (imp 0) repair 0 abort 0
+scored_0057 5 72 64 54 q 515 merge 0 elim 0/4311 regfail 0 (imp 0) repair 0 abort 0
+scored_0057 8 90 84 76 q 636 merge 0 elim 0/2934 regfail 0 (imp 0) repair 0 abort 0
+scored_0090 1 32 18 10 4226 merge 0 elim 0/11107 regfail 0 (imp 0) repair 0 abort 0
+scored_0090 3 40 30 22 1132 merge 0 elim 0/25895 regfail 0 (imp 0) repair 0 abort 0
+scored_0090 5 54 41 36  1437 merge 0 elim 0/6697 regfail 0 (imp 0) repair 0 abort 0
+scored_0090 8 70 64 50  1320 merge 0 elim 0/4839 regfail 0 (imp 0) repair 0 abort 0
+scored_0106 1 32 32 20 6489 merge 0 elim 0/10541 regfail 0 (imp 0) repair 0 abort 0
+scored_0106 3 37 37 26 q 215 merge 1 elim 0/5083 regfail 0 (imp 0) repair 0 abort 0
+scored_0106 5 49 45 34  1496 merge 0 elim 0/7713 regfail 0 (imp 0) repair 0 abort 0
+scored_0106 8 70 58 52  1583 merge 0 elim 0/7835 regfail 0 (imp 0) repair 0 abort 0
+scored_0123 1 45 24 22 1064 merge 0 elim 0/24165 regfail 0 (imp 0) repair 0 abort 0
+scored_0123 3 60 45 37  2001 merge 0 elim 0/5576 regfail 0 (imp 0) repair 0 abort 0
+scored_0123 5 74 67 55  1307 merge 0 elim 0/4862 regfail 0 (imp 0) repair 0 abort 0
+scored_0123 8 91 84 79 q 350 merge 0 elim 0/5037 regfail 0 (imp 0) repair 0 abort 0
+scored_0172 1 21 19 14 6976 merge 0 elim 0/10499 regfail 0 (imp 0) repair 0 abort 0
+scored_0172 3 34 23 19 3032 merge 0 elim 0/10450 regfail 0 (imp 0) repair 0 abort 0
+scored_0172 5 41 33 29 1707 merge 1 elim 1/17756 regfail 0 (imp 0) repair 0 abort 0
+scored_0172 8 56 42 39 1036 merge 0 elim 0/20375 regfail 0 (imp 0) repair 0 abort 0
+scored_0287 1 43 39 19  4762 merge 0 elim 0/5654 regfail 0 (imp 0) repair 0 abort 0
+scored_0287 3 60 52 34  1136 merge 0 elim 0/5754 regfail 0 (imp 0) repair 0 abort 0
+scored_0287 5 65 56 40  1230 merge 0 elim 0/4213 regfail 0 (imp 0) repair 0 abort 0
+scored_0287 8 92 73 61 q 455 merge 0 elim 0/5803 regfail 0 (imp 0) repair 0 abort 0
+scored_0442 1 16 12 11 eq 6633 merge 0 elim 0/12 regfail 0 (imp 0) repair 0 abort 0
+scored_0442 3 26 21 18 1483 merge 0 elim 0/11405 regfail 0 (imp 0) repair 0 abort 0
+scored_0442 5 58 50 36 q 695 merge 0 elim 0/3379 regfail 0 (imp 0) repair 0 abort 0
+scored_0442 8 67 61 61  1248 merge 0 elim 0/6710 regfail 0 (imp 0) repair 0 abort 0
+scored_0670 1 10 10 8 eq 11950 merge 0 elim 0/0 regfail 0 (imp 0) repair 0 abort 0
+scored_0670 3 25 25 21  3955 merge 0 elim 0/4386 regfail 0 (imp 0) repair 0 abort 0
+scored_0670 5 59 43 31  1140 merge 0 elim 0/5433 regfail 0 (imp 0) repair 0 abort 0
+scored_0670 8 76 62 51 q 290 merge 0 elim 0/4777 regfail 0 (imp 0) repair 0 abort 0
+scored_0776 1 21 20 16 eq 0 merge 0 elim 0/12257 regfail 0 (imp 0) repair 0 abort 0
+scored_0776 3 50 45 38 q 822 merge 0 elim 0/1863 regfail 0 (imp 0) repair 0 abort 0
+scored_0776 5 66 59 55  1062 merge 0 elim 0/4386 regfail 0 (imp 0) repair 0 abort 0
+scored_0776 8 84 77 75 q 969 merge 0 elim 0/2193 regfail 0 (imp 0) repair 0 abort 0
+scored_0827 1 21 19 14  303 merge 0 elim 0/10160 regfail 0 (imp 0) repair 0 abort 0
+scored_0827 3 31 31 23 q 819 merge 0 elim 0/9366 regfail 0 (imp 0) repair 0 abort 0
+scored_0827 5 36 36 31 3927 merge 0 elim 0/23567 regfail 0 (imp 0) repair 0 abort 0
+scored_0827 8 45 45 38 9797 merge 0 elim 0/31282 regfail 0 (imp 0) repair 0 abort 0
+scored_0067 1 37 24 23 1143 merge 0 elim 0/21680 regfail 0 (imp 0) repair 0 abort 0
+scored_0067 3 75 49 44 q 124 merge 0 elim 0/3209 regfail 0 (imp 0) repair 0 abort 0
+scored_0067 5 79 68 64  1791 merge 0 elim 0/5704 regfail 0 (imp 0) repair 0 abort 0
+scored_0067 8 113 94 93 q 390 merge 0 elim 0/2316 regfail 0 (imp 0) repair 0 abort 0
+scored_0069 1 53 28 21 1182 merge 0 elim 0/13476 regfail 0 (imp 0) repair 0 abort 0
+scored_0069 3 73 55 41 q 592 merge 0 elim 0/2862 regfail 0 (imp 0) repair 0 abort 0
+scored_0069 5 85 69 62 q 503 merge 0 elim 0/1625 regfail 0 (imp 0) repair 0 abort 0
+scored_0069 8 99 93 90 q 196 merge 0 elim 0/1134 regfail 0 (imp 0) repair 0 abort 0
+scored_0094 1 39 20 18  5413 merge 0 elim 0/5851 regfail 0 (imp 0) repair 0 abort 0
+scored_0094 3 67 53 42 q 186 merge 0 elim 1/1566 regfail 0 (imp 0) repair 0 abort 0
+scored_0094 5 83 75 60 q 478 merge 0 elim 0/2392 regfail 0 (imp 0) repair 0 abort 0
+scored_0094 8 99 91 89 q 350 merge 0 elim 0/1285 regfail 0 (imp 0) repair 0 abort 0
+scored_0251 1 29 18 13 6734 merge 0 elim 0/14005 regfail 0 (imp 0) repair 0 abort 0
+scored_0251 3 51 41 29  1122 merge 0 elim 0/3393 regfail 0 (imp 0) repair 0 abort 0
+scored_0251 5 55 46 35 2263 merge 0 elim 0/13503 regfail 0 (imp 0) repair 0 abort 0
+scored_0251 8 62 56 45  1316 merge 0 elim 0/9391 regfail 0 (imp 0) repair 0 abort 0
+scored_0428 1 18 15 15  eq 0 merge 0 elim 0/4892 regfail 0 (imp 0) repair 0 abort 0
+scored_0428 3 34 20 19  2790 merge 0 elim 0/7867 regfail 0 (imp 0) repair 0 abort 0
+scored_0428 5 41 32 29  2293 merge 0 elim 0/6160 regfail 0 (imp 0) repair 0 abort 0
+scored_0428 8 49 43 38 5016 merge 0 elim 0/12305 regfail 0 (imp 0) repair 0 abort 0
+scored_0444 1 15 15 14 1380 merge 0 elim 0/11690 regfail 0 (imp 0) repair 0 abort 0
+scored_0444 3 47 43 37 q 411 merge 0 elim 0/4792 regfail 0 (imp 0) repair 0 abort 0
+scored_0444 5 70 63 58 q 746 merge 0 elim 0/5676 regfail 0 (imp 0) repair 0 abort 0
+scored_0444 8 93 90 88 q 971 merge 0 elim 0/4405 regfail 0 (imp 0) repair 0 abort 0
+scored_0446 1 51 27 23 3558 merge 0 elim 0/12091 regfail 0 (imp 0) repair 0 abort 0
+scored_0446 3 74 47 45  1582 merge 0 elim 0/3744 regfail 0 (imp 0) repair 0 abort 0
+scored_0446 5 78 68 64 q 673 merge 0 elim 0/2390 regfail 0 (imp 0) repair 0 abort 0
+scored_0446 8 98 94 91 q 282 merge 0 elim 0/2339 regfail 0 (imp 0) repair 0 abort 0
+scored_0638 1 40 18 17  1097 merge 0 elim 0/8097 regfail 0 (imp 0) repair 0 abort 0
+scored_0638 3 66 43 40 3129 merge 0 elim 0/13929 regfail 0 (imp 0) repair 0 abort 0
+scored_0638 5 81 66 62 q 286 merge 0 elim 0/8450 regfail 0 (imp 0) repair 0 abort 0
+scored_0638 8 106 93 91 q 495 merge 0 elim 0/2762 regfail 0 (imp 0) repair 0 abort 0
+scored_0655 1 18 17 16 eq 6 merge 0 elim 0/17551 regfail 0 (imp 0) repair 0 abort 0
+scored_0655 3 57 48 43  1282 merge 0 elim 0/4672 regfail 0 (imp 0) repair 0 abort 0
+scored_0655 5 79 61 59  1289 merge 0 elim 0/6528 regfail 0 (imp 0) repair 0 abort 0
+scored_0655 8 100 93 88 q 351 merge 0 elim 0/3188 regfail 0 (imp 0) repair 0 abort 0
+scored_0944 1 47 27 17 q 506 merge 0 elim 0/4290 regfail 0 (imp 0) repair 0 abort 0
+scored_0944 3 50 31 20 5547 merge 0 elim 1/13780 regfail 0 (imp 0) repair 0 abort 0
+scored_0944 5 57 45 33 2718 merge 0 elim 0/13509 regfail 0 (imp 0) repair 0 abort 0
+scored_0944 8 76 67 48  2076 merge 0 elim 0/6948 regfail 0 (imp 0) repair 0 abort 0

@@ -1,0 +1,17 @@
+100/1000 개선 40 합계 162803 55s
+200/1000 개선 89 합계 162630 107s
+300/1000 개선 142 합계 162463 158s
+400/1000 개선 186 합계 162290 209s
+500/1000 개선 230 합계 162123 258s
+600/1000 개선 281 합계 161927 302s
+700/1000 개선 324 합계 161789 350s
+800/1000 개선 372 합계 161628 400s
+900/1000 개선 413 합계 161503 449s
+1000/1000 개선 459 합계 161352 499s
+끝: 프로그램 1000개, 개선 459, 합계(자체 집계, 참고용) 161352, 499s
+   340 {'digits': 2, 'W': 32, 'pol': 0, 'order': 'cheap', 's1m': 2, 'f2': 0, 'seed': 4, 'relkeep': 2, 'rel_shift': 10, 'alpha': 0.12, 'close_shift': 2, 'reserve': 1}
+    50 {'digits': 4, 'W': 32, 'pol': 2, 'order': 'cheap', 's1m': 2, 'f2': 1, 'seed': 4, 'relkeep': 2, 'rel_shift': 8, 'alpha': 0.16}
+    46 {'digits': 0, 'W': 32, 'pol': 0, 'order': 'cheap', 's1m': 2, 'f2': 1, 'seed': 4, 'relkeep': 2, 'rel_shift': 12, 'alpha': 0.16}
+    16 {'digits': 8, 'W': 32, 'pol': 0, 'order': 'cheap', 's1m': 2, 'f2': 0, 'seed': 8, 'seed_min': 32, 'relkeep': 2, 'rel_shift': 12, 'alpha': 0.2}
+     5 {'digits': 3, 'W': 32, 'pol': 0, 'order': 'cheap', 's1m': 2, 'f2': 0, 'seed': 0, 'relkeep': 1, 'alpha': 0.0}
+     2 {'digits': 6, 'W': 48, 'pol': 0, 'order': 'cheap', 's1m': 3, 'f2': 0, 'seed': 2, 'relkeep': 2, 'rel_shift': 14, 'alpha': 0.3}

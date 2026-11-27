@@ -1,0 +1,6 @@
+scored_0003 bases [103621, 299651, 669463] added [] strict cov 5 -> 5 / 28
+scored_0441 bases [13920, 37420, 52963, 2021793] added [] strict cov 8 -> 8 / 28
+scored_0588 bases [1373, 7832, 6496542] added [] strict cov 5 -> 5 / 28
+scored_0802 bases [34230] added [] strict cov 2 -> 2 / 28
+scored_0819 bases [239996, 832620, 973482, 515237] added [515237] strict cov 4 -> 6 / 29
+puzzles 216 with bases 5 strict explained 26

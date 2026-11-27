@@ -1,0 +1,117 @@
+110 puzzles with bases, mod solver3
+scored_0018 relate 144 -> 142 (best 118) tried 3 11s seeds (724, 1184, 4411, 9489, 15300, 16462) cfg 0
+scored_0017 relate 142 -> 142 (best 130) tried 4 12s seeds (1411, 19102, 22952) cfg 0
+scored_0025 relate 156 -> 158 (best 134) tried 2 22s seeds (5152, 11905, 1413, 2428, 11786, 13668, 5939, 3326) cfg 0
+scored_0034 relate 193 -> 196 (best 176) tried 5 10s seeds (5153, 9225, 11885, 40472) cfg 0
+scored_0030 relate 225 -> 228 (best 201) tried 2 12s seeds (297708, 18500) cfg 0
+scored_0059 relate 154 -> 150 (best 140) tried 3 10s seeds (2468, 5132, 6676, 29628) cfg 0
+scored_0071 relate 123 -> 125 (best 111) tried 6 11s seeds (1480, 2190) cfg 1
+scored_0073 relate 137 -> 136 (best 119) tried 9 11s seeds (37952, 7594, 5638, 5322, 1744) cfg 0
+scored_0081 relate 137 -> 134 (best 122) tried 3 11s seeds (693, 2186, 10888) cfg 0
+scored_0088 relate 233 -> 220 (best 219) tried 3 11s seeds (50008, 718802, 1451272, 331856) cfg 0
+scored_0089 relate 135 -> 135 (best 113) tried 10 11s seeds (4851, 116017, 9539) cfg 0
+scored_0097 relate 103 -> 108 (best 93) tried 6 11s seeds (643, 937, 3514) cfg 0
+scored_0098 relate 209 -> 206 (best 190) tried 6 11s seeds (3395, 19664) cfg 0
+scored_0106 relate 260 -> 251 (best 235) tried 4 16s seeds (436553, 2996) cfg 1
+scored_0117 relate 214 -> 211 (best 195) tried 3 10s seeds (672300, 664786, 29147) cfg 0
+scored_0110 relate 196 -> 192 (best 177) tried 4 13s seeds (78744, 348458, 41446) cfg 0
+scored_0119 relate 248 -> 228 (best 234) tried 5 13s seeds (708047, 721683, 840151, 1609572) cfg 0
+scored_0132 relate 113 -> 116 (best 101) tried 7 11s seeds (1144, 886) cfg 0
+scored_0133 relate 261 -> 243 (best 228) tried 3 11s seeds (279808, 500393, 1648623, 2565600) cfg 0
+scored_0141 relate 148 -> 151 (best 125) tried 4 13s seeds (676, 736, 5096, 6475, 11055, 35758) cfg 0
+scored_0142 relate 129 -> 134 (best 120) tried 5 12s seeds (8011, 2212, 1235) cfg 0
+scored_0144 relate 130 -> 123 (best 117) tried 6 12s seeds (2114, 4599) cfg 1
+scored_0147 relate 105 -> 107 (best 95) tried 13 10s seeds (10962, 1143) cfg 0
+scored_0157 relate 173 -> 177 (best 161) tried 4 11s seeds (12635, 31559) cfg 0
+scored_0154 relate 191 -> 182 (best 164) tried 2 17s seeds (924, 12939, 10270) cfg 0
+[105s] 25/110 improved 13 gain 96 beat-best 1
+scored_0158 relate 164 -> 169 (best 151) tried 7 11s seeds (4761, 7708, 62849) cfg 0
+scored_0164 relate 137 -> 139 (best 125) tried 4 12s seeds (1080, 69906, 8738, 5548) cfg 0
+scored_0172 relate 181 -> 172 (best 172) tried 4 10s seeds (29619, 46201, 60363) cfg 0
+scored_0194 relate 168 -> 169 (best 159) tried 7 15s seeds (5914, 174685) cfg 0
+scored_0197 relate 129 -> 140 (best 117) tried 4 12s seeds (13068, 13131, 7392, 110122, 3059) cfg 0
+scored_0203 relate 245 -> 245 (best 226) tried 3 18s seeds (3237520, 2881299) cfg 1
+scored_0204 relate 240 -> 232 (best 218) tried 4 11s seeds (216342, 427641, 2483061, 4053143) cfg 0
+scored_0205 relate 151 -> 153 (best 131) tried 5 13s seeds (4030, 8670, 17086, 1282) cfg 0
+scored_0214 relate 185 -> 189 (best 128) tried 3 10s seeds (20492, 278903, 48121, 28286) cfg 0
+scored_0206 relate 176 -> 175 (best 161) tried 3 15s seeds (20449, 18633, 11863) cfg 0
+scored_0267 relate 132 -> 132 (best 111) tried 9 11s seeds (2415, 35449) cfg 0
+scored_0270 relate 133 -> 136 (best 127) tried 7 12s seeds (28274, 1144, 1044) cfg 0
+scored_0273 relate 203 -> 212 (best 186) tried 3 13s seeds (15322, 98693, 9782) cfg 0
+scored_0287 relate 222 -> 222 (best 194) tried 2 16s seeds (29356, 130840, 47861) cfg 0
+scored_0291 relate 184 -> 186 (best 171) tried 3 12s seeds (5696, 92063, 4532, 1664) cfg 0
+scored_0297 relate 134 -> 134 (best 121) tried 4 10s seeds (4416, 12912, 1138) cfg 0
+scored_0316 relate 126 -> 123 (best 108) tried 8 12s seeds (5232, 3244) cfg 1
+scored_0323 relate 167 -> 146 (best 152) tried 9 11s seeds (35958, 51682, 104015, 518324, 981449) cfg 0
+scored_0349 relate 201 -> 205 (best 187) tried 3 18s seeds (55407, 18902) cfg 0
+scored_0363 relate 178 -> 182 (best 158) tried 4 12s seeds (33482, 45169) cfg 0
+scored_0357 relate 258 -> 262 (best 241) tried 5 15s seeds (546178, 229336, 34761) cfg 0
+scored_0372 relate 122 -> 123 (best 112) tried 8 10s seeds (1113, 3986, 824) cfg 0
+scored_0379 relate 128 -> 128 (best 117) tried 14 11s seeds (1911, 7281, 1666) cfg 0
+scored_0380 relate 173 -> 168 (best 160) tried 3 14s seeds (5121, 5535, 19100) cfg 0
+scored_0392 relate 122 -> 113 (best 100) tried 10 11s seeds (6253, 855, 789) cfg 0
+[210s] 50/110 improved 20 gain 152 beat-best 2
+scored_0413 relate 174 -> 174 (best 160) tried 3 10s seeds (12072, 2612, 1553) cfg 0
+scored_0433 relate 148 -> 149 (best 130) tried 6 11s seeds (36169, 26320) cfg 1
+scored_0437 relate 187 -> 173 (best 132) tried 4 11s seeds (146927, 284173, 491852, 757961, 8571641) cfg 0
+scored_0456 relate 134 -> 135 (best 120) tried 11 11s seeds (12975312, 4704, 7175) cfg 0
+scored_0476 relate 231 -> 221 (best 218) tried 2 11s seeds (768166, 186530, 69536) cfg 0
+scored_0466 relate 215 -> 208 (best 192) tried 3 16s seeds (90774, 11476) cfg 1
+scored_0480 relate 162 -> 163 (best 155) tried 6 12s seeds (8024, 17324) cfg 1
+scored_0486 relate 120 -> 121 (best 110) tried 11 10s seeds (10260, 31232) cfg 2
+scored_0484 relate 155 -> 159 (best 137) tried 4 13s seeds (53164, 22172, 19566, 4148) cfg 0
+scored_0488 relate 160 -> 165 (best 138) tried 3 10s seeds (980, 8801, 3841, 890) cfg 0
+scored_0491 relate 204 -> 201 (best 191) tried 5 11s seeds (13231, 13296, 92107, 117681) cfg 0
+scored_0499 relate 160 -> 142 (best 140) tried 10 11s seeds (1138480, 425598) cfg 0
+scored_0505 relate 134 -> 126 (best 116) tried 7 10s seeds (1032, 5526, 7879, 16866) cfg 0
+scored_0506 relate 130 -> 131 (best 116) tried 8 11s seeds (8883, 2889) cfg 1
+scored_0517 relate 173 -> 171 (best 161) tried 2 11s seeds (24290, 9074, 23084, 109910) cfg 0
+scored_0508 relate 223 -> 208 (best 209) tried 5 12s seeds (92538, 76967, 43647, 23282, 188812) cfg 0
+scored_0530 relate 170 -> 176 (best 159) tried 3 11s seeds (22197, 18480) cfg 0
+scored_0546 relate 159 -> 165 (best 150) tried 8 10s seeds (17408, 12276, 1945) cfg 0
+scored_0554 relate 122 -> 114 (best 111) tried 9 11s seeds (1122, 2447, 6054, 8843, 9466) cfg 0
+scored_0568 relate 134 -> 135 (best 115) tried 8 10s seeds (18224, 9795, 8255) cfg 0
+scored_0573 relate 203 -> 201 (best 185) tried 4 11s seeds (72344, 107756, 121952) cfg 0
+scored_0606 relate 183 -> 174 (best 164) tried 2 12s seeds (27942, 10494, 2265) cfg 0
+scored_0637 relate 32 -> 32 (best 29) tried 18 2s seeds (697, 1897) cfg 1
+scored_0607 relate 138 -> 123 (best 105) tried 10 10s seeds (1853, 4976, 7531, 8662) cfg 0
+scored_0624 relate 126 -> 125 (best 108) tried 13 10s seeds (3320, 15307, 1547) cfg 1
+[299s] 75/110 improved 33 gain 264 beat-best 3
+scored_0641 relate 128 -> 130 (best 114) tried 6 10s seeds (14058, 9028, 3859) cfg 0
+scored_0645 relate 212 -> 202 (best 196) tried 4 13s seeds (30405, 49841, 9196) cfg 0
+scored_0649 relate 132 -> 133 (best 122) tried 10 11s seeds (7347, 909) cfg 1
+scored_0663 relate 204 -> 201 (best 187) tried 2 12s seeds (48840, 61683, 154926, 206046) cfg 0
+scored_0694 relate 170 -> 173 (best 157) tried 4 10s seeds (6256, 13058, 3439) cfg 0
+scored_0671 relate 213 -> 207 (best 195) tried 2 13s seeds (82017, 87229, 90783) cfg 0
+scored_0699 relate 149 -> 144 (best 136) tried 9 11s seeds (313461, 194013, 97341, 87676, 77071, 26601) cfg 0
+scored_0710 relate 126 -> 130 (best 110) tried 12 10s seeds (8140, 2518, 2375) cfg 1
+scored_0717 relate 136 -> 134 (best 125) tried 4 11s seeds (1258, 8129, 6307) cfg 0
+scored_0725 relate 249 -> 232 (best 227) tried 3 15s seeds (914776, 268031, 616721, 108210) cfg 0
+scored_0741 relate 144 -> 147 (best 131) tried 9 11s seeds (8983, 14455) cfg 0
+scored_0764 relate 222 -> 227 (best 199) tried 1 11s seeds (68493, 96432, 39798, 29923) cfg 0
+scored_0787 relate 105 -> 111 (best 102) tried 12 10s seeds (25668, 18072, 22824) cfg 1
+scored_0788 relate 265 -> 249 (best 230) tried 3 13s seeds (35758, 65747, 90905, 4729488) cfg 0
+scored_0789 relate 189 -> 208 (best 164) tried 2 17s seeds (760636, 640734, 1089484) cfg 0
+scored_0793 relate 252 -> 227 (best 224) tried 4 12s seeds (1080476, 1441484, 747798, 273233) cfg 0
+scored_0795 relate 199 -> 205 (best 183) tried 3 12s seeds (36758, 31467, 12179) cfg 0
+scored_0804 relate 128 -> 122 (best 109) tried 7 11s seeds (2730, 10244) cfg 1
+scored_0825 relate 136 -> 141 (best 127) tried 8 10s seeds (1952, 2494, 5122, 7608, 368440, 539840) cfg 0
+scored_0830 relate 109 -> 109 (best 105) tried 20 10s seeds (3417, 1616, 2312) cfg 1
+scored_0835 relate 122 -> 122 (best 108) tried 9 10s seeds (19970, 9360) cfg 1
+scored_0861 relate 174 -> 172 (best 162) tried 3 13s seeds (5425, 1792, 7119) cfg 0
+scored_0893 relate 141 -> 148 (best 128) tried 6 11s seeds (1160, 7381, 11592, 6162, 15661, 23286) cfg 0
+scored_0907 relate 131 -> 134 (best 119) tried 9 11s seeds (3256, 4197, 1131) cfg 0
+scored_0926 relate 21 -> 23 (best 20) tried 36 2s seeds (733, 838) cfg 0
+[395s] 100/110 improved 43 gain 356 beat-best 3
+scored_0915 relate 210 -> 212 (best 194) tried 2 12s seeds (2741, 11425, 20279, 152565) cfg 0
+scored_0923 relate 224 -> 205 (best 203) tried 4 14s seeds (1806456, 2639584, 1458944, 272272) cfg 0
+scored_0927 relate 152 -> 144 (best 135) tried 6 12s seeds (11546, 4666, 3936, 3808) cfg 0
+scored_0964 relate 224 -> 228 (best 206) tried 3 10s seeds (16987, 30964, 55977) cfg 0
+scored_0961 relate 132 -> 129 (best 114) tried 7 12s seeds (4347, 6857, 7548) cfg 0
+scored_0983 relate 153 -> 149 (best 121) tried 4 12s seeds (12648, 9974, 2301, 3333) cfg 0
+scored_0991 relate 195 -> 189 (best 182) tried 6 10s seeds (893, 16244, 83484, 91891) cfg 0
+scored_0993 relate 248 -> 237 (best 228) tried 3 11s seeds (1531076, 1081596, 3042480, 1154200) cfg 0
+scored_0998 relate 233 -> 229 (best 206) tried 2 12s seeds (94688, 19021, 9492) cfg 0
+scored_0999 relate 115 -> 118 (best 107) tried 17 10s seeds (89137, 1032) cfg 0
+[431s] 110/110 improved 50 gain 411 beat-best 3
+done 431s: improved 50, gain 411, beat-best 3

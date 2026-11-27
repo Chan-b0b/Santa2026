@@ -1,0 +1,26 @@
+scored_0027 103 -> 103 | walk 0/0 cyc 0 hold 0/0(0) help 0/491 kick 0 beam 5 ruin 1+54476/311856 start 103 end 103 iters 242788 eval 58740 imp 0 eq 748 merge 0 elim 0/8040 regfail 0 (imp 0) repair 0 abort 0
+scored_0078 106 -> None | 목표값 1개 미생성 (예: 865528)
+scored_0116 85 -> 85 | walk 0/0 cyc 0 hold 0/0(0) help 0/665 kick 0 beam 4 ruin 1+71711/408723 start 85 end 85 iters 311971 eval 76800 imp 0 eq 2250 merge 0 elim 0/7999 regfail 0 (imp 0) repair 0 abort 0
+scored_0147 94 -> 94 | walk 0/0 cyc 0 hold 0/0(0) help 0/1442 kick 0 beam 0 ruin 4+112703/883087 start 94 end 94 iters 671158 eval 165702 imp 0 eq 1428 merge 1 elim 0/25677 regfail 0 (imp 0) repair 0 abort 0
+scored_0187 91 -> None | 목표값 4개 미생성 (예: 22975)
+scored_0225 105 -> 105 | walk 0/0 cyc 0 hold 0/0(0) help 0/725 kick 0 beam 12 ruin 2+66098/435449 start 105 end 105 iters 327019 eval 81815 imp 0 eq 1692 merge 0 elim 0/10316 regfail 0 (imp 0) repair 0 abort 0
+scored_0256 84 -> None | 목표값 6개 미생성 (예: 99287)
+scored_0298 97 -> None | 목표값 1개 미생성 (예: 21538657)
+scored_0377 85 -> 85 | walk 0/0 cyc 0 hold 0/0(0) help 0/711 kick 0 beam 0 ruin 3+69960/441425 start 85 end 85 iters 338548 eval 82850 imp 0 eq 810 merge 1 elim 0/9983 regfail 0 (imp 0) repair 0 abort 0
+scored_0430 87 -> None | 목표값 1개 미생성 (예: 30551070)
+scored_0464 76 -> None | 목표값 2개 미생성 (예: 1308800)
+scored_0503 80 -> None | 목표값 2개 미생성 (예: 55381504)
+scored_0539 90 -> None | 목표값 2개 미생성 (예: 498583)
+scored_0554 96 -> 96 | walk 0/0 cyc 0 hold 0/0(0) help 0/800 kick 0 beam 0 ruin 4+97113/501527 start 96 end 96 iters 386530 eval 93797 imp 0 eq 1271 merge 0 elim 0/10386 regfail 0 (imp 0) repair 0 abort 0
+scored_0574 100 -> 100 | walk 0/0 cyc 0 hold 0/0(0) help 0/794 kick 0 beam 1 ruin 3+72706/492460 start 100 end 100 iters 377669 eval 92576 imp 0 eq 1418 merge 0 elim 0/10708 regfail 0 (imp 0) repair 0 abort 0
+scored_0623 74 -> None | 목표값 2개 미생성 (예: 306684)
+scored_0659 81 -> 81 | walk 0/0 cyc 0 hold 0/0(0) help 0/2264 kick 0 beam 0 ruin 12+188934/1428510 start 81 end 81 iters 1106503 eval 267785 imp 1 eq 6331 merge 1 elim 0/34016 regfail 0 (imp 0) repair 0 abort 0
+scored_0707 86 -> None | 목표값 1개 미생성 (예: 12400280)
+scored_0749 89 -> 89 | walk 0/0 cyc 0 hold 0/0(0) help 0/1154 kick 0 beam 0 ruin 9+82862/713702 start 89 end 89 iters 545411 eval 133311 imp 0 eq 3287 merge 0 elim 0/20727 regfail 0 (imp 0) repair 0 abort 0
+scored_0761 95 -> None | 목표값 1개 미생성 (예: 5775744)
+scored_0804 107 -> 107 | walk 0/0 cyc 0 hold 0/0(0) help 0/1175 kick 0 beam 0 ruin 2+117216/730658 start 107 end 107 iters 560487 eval 137035 imp 0 eq 3444 merge 0 elim 0/17862 regfail 0 (imp 0) repair 0 abort 0
+scored_0821 95 -> None | 목표값 1개 미생성 (예: 205954056)
+scored_0881 84 -> None | 목표값 2개 미생성 (예: 16660)
+scored_0943 88 -> None | 목표값 2개 미생성 (예: 1354848)
+scored_0955 82 -> None | 목표값 1개 미생성 (예: 1083861)
+합계 2260 -> 2260 (0.00%)
